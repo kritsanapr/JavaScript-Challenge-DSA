@@ -1,4 +1,4 @@
-# Traversy JS Challenges, Data Structures, and Algorithms
+# My JS Challenges, Data Structures, and Algorithms
 
 This is a sandbox for my upcoming `JavaScript challenges, data structures, and algorithms` course. Just about all of the concepts that are included, also exist in other languages. So, if you are not a JavaScript developer, you can still follow along and learn from this course/repo.
 
@@ -188,3 +188,7 @@ In this section, we will get into sorting algorithms. We will start with `bubble
 9. [Merge Sort Implementation](./09-sorting-algorithms/09-merge-sort-implementation/readme.md)
 10. [Quick Sort Algorithm](./09-sorting-algorithms/10-quick-sort-algorithm/readme.md)
 11. [Quick Sort Implementation](./09-sorting-algorithms/11-quick-sort-implementation/readme.md)
+
+
+ ### References and Credits
+ [Traversy JS Challenges, Data Structures, and Algorithms]()
