@@ -5,4 +5,5 @@ test('Counting vowels in a string', () => {
   expect(countVowels('JavaScript')).toBe(3);
   expect(countVowels('OpenAI Chatbot')).toBe(6);
   expect(countVowels('Coding Challenge')).toBe(5);
+  expect(countVowels('Bee')).toBe(2);
 });
